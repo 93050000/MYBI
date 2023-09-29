@@ -1,4 +1,4 @@
-# 智能 BI 平台
+# 雨落智能 BI 平台
 
 This project is initialized with [智能 BI 平台](https://pro.ant.design). Follow is the quick guide for how to use.
 
